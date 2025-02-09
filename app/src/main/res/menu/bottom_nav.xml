@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="Load"
+        android:id="@+id/bot_load"
+        android:icon="@drawable/settings"/>
+
+    <item android:title="Profile"
+        android:id="@+id/bot_profile"
+        android:icon="@drawable/profile"/>
+
+    <item android:title="LogOut"
+        android:id="@+id/bot_exit"
+        android:icon="@drawable/out"/>
+
+
+</menu>
