@@ -1,8 +1,8 @@
 {
   "project_info": {
     "project_number": "1079799053055",
-    "firebase_url": "https://esure-3fc48-default-rtdb.asia-southeast1.firebasedatabase.app",
-    "project_id": "esure-3fc48",
+    "firebase_url": "(DELETED PUT FIREBASE URL)",
+    "project_id": "(DELETED PUT PROJECT ID)",
     "storage_bucket": "esure-3fc48.appspot.com"
   },
   "client": [
@@ -16,7 +16,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBGjJMzsO_FJ5FzEyV9529z37GJVvCCr1M"
+          "current_key": "(DELETED PUT APIKEY)"
         }
       ],
       "services": {
